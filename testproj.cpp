@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "FEFU NE POKA(" << std::endl;
+	std::cout << "FEFU SNOVA PRIVET!" << std::endl;
 	return 0;
 }
