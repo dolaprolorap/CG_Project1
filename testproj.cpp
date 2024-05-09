@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "FEFU SNOVA PRIVET!" << std::endl;
+	std::cout << "First text" << std::endl;
 	return 0;
 }
