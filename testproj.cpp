@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "First text" << std::endl;
+	std::cout << "Anoher text" << std::endl;
 	return 0;
 }
